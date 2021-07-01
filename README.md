@@ -1,7 +1,7 @@
 # AutomationPracticeDotCom-GTreasury
 Pet Automation Project
 # AutomationExam
-Outsourced Automation Exam 
+Prosource Automation Exam 
 
 This robot framework automation script is made for Exam purposes
 
